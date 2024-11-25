@@ -23,3 +23,21 @@ Requirement Analysis involves several critical activities to ensure the software
 - **Requirement Documentation**: Record requirements clearly in formats like user stories or specifications.
 - **Requirement Analysis and Modeling**: Identify gaps and conflicts; create diagrams to visualize system interactions.
 - **Requirement Validation**: Review requirements with stakeholders to ensure clarity, feasibility, and alignment with goals.
+
+## Types of Requirements:
+**Functional Requirements**: define the specific behavior or functions of the system. These describe what the system should do to meet user needs.
+  Examples:
+  - **Search hotels by location, price, or amenities.**
+  - **Update hotel details via a manager portal.**
+  - **Book hotels and process payments securely.**
+  - **Send notifications for bookings or offers.**
+  - **View current and past bookings.**
+
+**Non-functional Requirements**: focus on the quality attributes of the system. These describe how the system performs its functions.
+  Examples:
+  - **Performance**: Handle 10,000+ users simultaneously.
+  - **Scalability**: Adapt to peak booking traffic.
+  - **Reliability**: Ensure 99.9% uptime.
+  - **Security**: Encrypt sensitive data and ensure GDPR compliance.
+  - **Usability**: Simple interface with fast task completion.
+  - **Response Time**: Search results within 2 seconds.
