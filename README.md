@@ -61,6 +61,7 @@ Acceptance Criteria define the specific conditions a feature or system must meet
   - **Alignment**: Ensures shared understanding among stakeholders.
   - **Validation**: Confirms requirements are met.
   - **Focus**: Prevents unnecessary features (scope creep).
+
 **Examples**:
   - **Checkout Summary**: Display selected hotels, total price, and taxes.
   - **Payment Success**: Process valid payment and show confirmation.
