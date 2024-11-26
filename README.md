@@ -38,6 +38,19 @@ Requirement Analysis involves several critical activities to ensure the software
   - **Performance**: Handle 10,000+ users simultaneously.
   - **Scalability**: Adapt to peak booking traffic.
   - **Reliability**: Ensure 99.9% uptime.
-  - **Security**: Encrypt sensitive data and ensure GDPR compliance.
+  - **Security**: Encrypt sensitive data and ensure General Data Protection Regulation (GDPR) compliance.
   - **Usability**: Simple interface with fast task completion.
   - **Response Time**: Search results within 2 seconds.
+
+
+## Use Case Diagrams
+Use Case Diagrams are visual representations of the interactions between users (actors) and the system. They help illustrate the functionality of the system from the user's perspective, making it easier to identify and understand requirements.
+**Benefits of Use Case Diagrams**:
+  - **Clarity**: Simplifies complex systems by visualizing interactions.
+  - **Communication**: Bridges understanding between stakeholders and developers.
+  - **Requirement Verification**: Ensures all necessary functionalities are accounted for.
+
+![alx-booking-uc](https://github.com/user-attachments/assets/644f60b7-8c47-4dc4-b213-4b06a9c17e49)
+
+
+
