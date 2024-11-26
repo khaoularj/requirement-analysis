@@ -53,4 +53,20 @@ Use Case Diagrams are visual representations of the interactions between users (
 ![alx-booking-uc](https://github.com/user-attachments/assets/644f60b7-8c47-4dc4-b213-4b06a9c17e49)
 
 
+## Acceptance Criteria
+Acceptance Criteria define the specific conditions a feature or system must meet to be accepted. They ensure clarity, alignment, and measurable outcomes for development and testing.
+
+**importance of Acceptance Criteria in Requirement Analysis**:
+  - **Clarity**: Clearly defines expected functionality.
+  - **Alignment**: Ensures shared understanding among stakeholders.
+  - **Validation**: Confirms requirements are met.
+  - **Focus**: Prevents unnecessary features (scope creep).
+**Examples**:
+  - **Checkout Summary**: Display selected hotels, total price, and taxes.
+  - **Payment Success**: Process valid payment and show confirmation.
+  - **Error Handling**: Show error messages for invalid payment details.
+  - **Booking Confirmation**: Provide a unique booking ID after successful payment.
+
+
+
 
